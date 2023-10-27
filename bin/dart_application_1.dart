@@ -36,7 +36,7 @@ void main() {
   String myFlutter1;
   myFlutter1 = e.join("*");
   print(myFlutter1);
-  List t = [1, 9, 3, 195, 202, 2, 5, 7, 9, 10, 3, 15, 0, 11];
-  t.sort();
-  print(t);
+  List p = [1, 9, 3, 195, 202, 2, 5, 7, 9, 10, 3, 15, 0, 11];
+  p.sort();
+  print(p);
 }
